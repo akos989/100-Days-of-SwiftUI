@@ -6,10 +6,55 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXFileReference section */
+		0FE38F492922FAAE006A015E /* MoonApp */ = {isa = PBXFileReference; lastKnownFileType = folder; path = MoonApp; sourceTree = "<group>"; };
+		0FE38F4A2922FAAF006A015E /* Consolidation2 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Consolidation2; sourceTree = "<group>"; };
+		0FE38F4B2922FAAF006A015E /* Edutainment */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Edutainment; sourceTree = "<group>"; };
+		0FE38F4C2922FAAF006A015E /* Cupcake Corner */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Cupcake Corner"; sourceTree = "<group>"; };
+		0FE38F4D2922FAAF006A015E /* iExpense */ = {isa = PBXFileReference; lastKnownFileType = folder; path = iExpense; sourceTree = "<group>"; };
+		0FE38F4E2922FAAF006A015E /* CoreDataProject */ = {isa = PBXFileReference; lastKnownFileType = folder; path = CoreDataProject; sourceTree = "<group>"; };
+		0FE38F4F2922FAAF006A015E /* Habit Tracker */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Habit Tracker"; sourceTree = "<group>"; };
+		0FE38F502922FAAF006A015E /* Instafilter */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Instafilter; sourceTree = "<group>"; };
+		0FE38F512922FAAF006A015E /* Animations */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Animations; sourceTree = "<group>"; };
+		0FE38F522922FAAF006A015E /* Project2 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Project2; sourceTree = "<group>"; };
+		0FE38F532922FAAF006A015E /* BetterRest */ = {isa = PBXFileReference; lastKnownFileType = folder; path = BetterRest; sourceTree = "<group>"; };
+		0FE38F542922FAB0006A015E /* BookWorm */ = {isa = PBXFileReference; lastKnownFileType = folder; path = BookWorm; sourceTree = "<group>"; };
+		0FE38F552922FAB0006A015E /* Bucket List */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Bucket List"; sourceTree = "<group>"; };
+		0FE38F562922FAB0006A015E /* Accessability */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Accessability; sourceTree = "<group>"; };
+		0FE38F572922FAB0006A015E /* Unit Converter */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Unit Converter"; sourceTree = "<group>"; };
+		0FE38F582922FAB0006A015E /* WeSplit */ = {isa = PBXFileReference; lastKnownFileType = folder; path = WeSplit; sourceTree = "<group>"; };
+		0FE38F592922FAB0006A015E /* DrawingApp */ = {isa = PBXFileReference; lastKnownFileType = folder; path = DrawingApp; sourceTree = "<group>"; };
+		0FE38F5A2922FAB0006A015E /* Drawing */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Drawing; sourceTree = "<group>"; };
+		0FE38F5B2922FAB0006A015E /* Friendface */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Friendface; sourceTree = "<group>"; };
+		0FE38F5C2922FAB0006A015E /* People Photos */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "People Photos"; sourceTree = "<group>"; };
+		0FE38F5D2922FAB0006A015E /* WordScramble */ = {isa = PBXFileReference; lastKnownFileType = folder; path = WordScramble; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		0FE38F422922FA8D006A015E = {
 			isa = PBXGroup;
 			children = (
+				0FE38F562922FAB0006A015E /* Accessability */,
+				0FE38F512922FAAF006A015E /* Animations */,
+				0FE38F532922FAAF006A015E /* BetterRest */,
+				0FE38F542922FAB0006A015E /* BookWorm */,
+				0FE38F552922FAB0006A015E /* Bucket List */,
+				0FE38F4A2922FAAF006A015E /* Consolidation2 */,
+				0FE38F4E2922FAAF006A015E /* CoreDataProject */,
+				0FE38F4C2922FAAF006A015E /* Cupcake Corner */,
+				0FE38F5A2922FAB0006A015E /* Drawing */,
+				0FE38F592922FAB0006A015E /* DrawingApp */,
+				0FE38F4B2922FAAF006A015E /* Edutainment */,
+				0FE38F5B2922FAB0006A015E /* Friendface */,
+				0FE38F4F2922FAAF006A015E /* Habit Tracker */,
+				0FE38F4D2922FAAF006A015E /* iExpense */,
+				0FE38F502922FAAF006A015E /* Instafilter */,
+				0FE38F492922FAAE006A015E /* MoonApp */,
+				0FE38F5C2922FAB0006A015E /* People Photos */,
+				0FE38F522922FAAF006A015E /* Project2 */,
+				0FE38F572922FAB0006A015E /* Unit Converter */,
+				0FE38F582922FAB0006A015E /* WeSplit */,
+				0FE38F5D2922FAB0006A015E /* WordScramble */,
 			);
 			sourceTree = "<group>";
 		};
